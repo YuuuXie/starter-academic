@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Applied Physics 
-    institution: Harvard University
+    institution: Harvard University. Advised by Boris Kozinsky
     year: 2018 - present
   - course: B.S. in Applied Mathematics 
-    institution: Peking University
+    institution: Peking University. Advised by Zaiwen Wen
     year: 2014 - 2018
 
 # Social/Academic Networking

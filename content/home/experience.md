@@ -22,28 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Summer student intern
+    company: Lawrence Livermore National Laboratory (LLNL)
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: ''
+    location: California, US
+    date_start: '2019.6'
+    date_end: '2019.8'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+        Work with mentor Dr.Rebecca Lindsey on training ChIMES machine learning potential of CO/CO2 under extreme conditions.
+
+  - title: Research intern
+    company: Microsoft Research Asia (MSRA)
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Beijing, China
+    date_start: '2018.3'
+    date_end: '2018.7'
+    description: |2-
+        Work with mentor Dr.Li Zhao on deep reinforcement learning.
+
+  - title: Research assistant
+    company: Prof.Yue Lu's group at SEAS, Harvard 
+    company_url: ''
+    company_logo: ''
+    location: Massachusetts, US
+    date_start: '2017.6'
+    date_end: '2017.9'
+    description: |2-
+        Work with Prof.Yue Lu on the study of local minima in the integer least square problem.
+
+#  - title: CEO
+#    company: GenCoin
+#    company_url: ''
+#    company_logo: org-gc
+#    location: California
+#    date_start: '2021-01-01'
+#    date_end: ''
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
 
 design:
   columns: '2'

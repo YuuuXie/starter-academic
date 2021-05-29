@@ -30,8 +30,6 @@ image:
 
 authors:
 - admin
-- 吳恩達
-- YuXie
 
 tags:
 - Academic
