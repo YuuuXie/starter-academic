@@ -25,45 +25,45 @@ experience:
   - title: Summer student intern
     company: Lawrence Livermore National Laboratory (LLNL)
     company_url: ''
-    company_logo: org-gc
+#    company_logo: org-gc
     location: California, US
     date_start: '2019-06-03'
     date_end: '2019-08-10'
     description: Work with mentor Dr.Rebecca Lindsey on training ChIMES machine learning potential of CO/CO2 under extreme conditions.
-#
-#  - title: Research intern
-#    company: Microsoft Research Asia (MSRA)
-#    company_url: ''
-##    company_logo: ''
-#    location: Beijing, China
-#    date_start: '2018.3'
-#    date_end: '2018.7'
-#    description:
-#        Work with mentor Dr.Li Zhao on deep reinforcement learning.
-#
-#  - title: Research assistant
-#    company: Prof.Yue Lu's group at SEAS, Harvard 
-#    company_url: ''
-##    company_logo: ''
-#    location: Massachusetts, US
-#    date_start: '2017.6'
-#    date_end: '2017.9'
-#    description: 
-#        Work with Prof.Yue Lu on the study of local minima in the integer least square problem.
 
-  - title: CEO
-    company: GenCoin
+  - title: Research intern
+    company: Microsoft Research Asia (MSRA)
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#    company_logo: ''
+    location: Beijing, China
+    date_start: '2018-03-01'
+    date_end: '2018-07-01'
+    description:
+        Work with mentor Dr.Li Zhao on deep reinforcement learning.
+
+  - title: Research assistant
+    company: Prof.Yue Lu's group at SEAS, Harvard 
+    company_url: ''
+#    company_logo: ''
+    location: Massachusetts, US
+    date_start: '2017-06-15'
+    date_end: '2017-09-01'
+    description: 
+        Work with Prof.Yue Lu on the study of local minima in the integer least square problem.
+
+#  - title: CEO
+#    company: GenCoin
+#    company_url: ''
+#    company_logo: org-gc
+#    location: California
+#    date_start: '2021-01-01'
+#    date_end: ''
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
 
 design:
   columns: '2'
