@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: California, US
-    date_start: '2019-06'
-    date_end: '2019-08'
+    date_start: '2019-06-03'
+    date_end: '2019-08-10'
     description: Work with mentor Dr.Rebecca Lindsey on training ChIMES machine learning potential of CO/CO2 under extreme conditions.
 #
 #  - title: Research intern
