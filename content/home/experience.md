@@ -25,7 +25,7 @@ experience:
   - title: Summer student intern
     company: Lawrence Livermore National Laboratory (LLNL)
     company_url: ''
-#    company_logo: ''
+    company_logo: org-gc
     location: California, US
     date_start: '2019.6'
     date_end: '2019.8'
