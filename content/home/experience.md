@@ -25,7 +25,7 @@ experience:
   - title: Summer student intern
     company: Lawrence Livermore National Laboratory (LLNL)
     company_url: ''
-    company_logo: ''
+#    company_logo: ''
     location: California, US
     date_start: '2019.6'
     date_end: '2019.8'
@@ -35,7 +35,7 @@ experience:
   - title: Research intern
     company: Microsoft Research Asia (MSRA)
     company_url: ''
-    company_logo: ''
+#    company_logo: ''
     location: Beijing, China
     date_start: '2018.3'
     date_end: '2018.7'
@@ -45,7 +45,7 @@ experience:
   - title: Research assistant
     company: Prof.Yue Lu's group at SEAS, Harvard 
     company_url: ''
-    company_logo: ''
+#    company_logo: ''
     location: Massachusetts, US
     date_start: '2017.6'
     date_end: '2017.9'
