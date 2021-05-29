@@ -29,7 +29,7 @@ experience:
     location: California, US
     date_start: '2019.6'
     date_end: '2019.8'
-    description: |2-
+    description:
         Work with mentor Dr.Rebecca Lindsey on training ChIMES machine learning potential of CO/CO2 under extreme conditions.
 
   - title: Research intern
@@ -39,7 +39,7 @@ experience:
     location: Beijing, China
     date_start: '2018.3'
     date_end: '2018.7'
-    description: |2-
+    description:
         Work with mentor Dr.Li Zhao on deep reinforcement learning.
 
   - title: Research assistant
@@ -49,7 +49,7 @@ experience:
     location: Massachusetts, US
     date_start: '2017.6'
     date_end: '2017.9'
-    description: |2-
+    description: 
         Work with Prof.Yue Lu on the study of local minima in the integer least square problem.
 
 #  - title: CEO
