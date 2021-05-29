@@ -22,15 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-#  - title: Summer student intern
-#    company: Lawrence Livermore National Laboratory (LLNL)
-#    company_url: ''
-##    company_logo: ''
-#    location: California, US
-#    date_start: '2019.6'
-#    date_end: '2019.8'
-#    description:
-#        Work with mentor Dr.Rebecca Lindsey on training ChIMES machine learning potential of CO/CO2 under extreme conditions.
+  - title: Summer student intern
+    company: Lawrence Livermore National Laboratory (LLNL)
+    company_url: ''
+#    company_logo: ''
+    location: California, US
+    date_start: '2019.6'
+    date_end: '2019.8'
+    description: Work with mentor Dr.Rebecca Lindsey on training ChIMES machine learning potential of CO/CO2 under extreme conditions.
 #
 #  - title: Research intern
 #    company: Microsoft Research Asia (MSRA)
