@@ -18,14 +18,14 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: I play Launchpad
-  icon: "launchpad.png"
+  icon: "launchpad"
   icon_pack: "custom"
   name: Launchpad
-- description: bilibili channel
-  icon: "bilibili-tv.svg"
+- description: My bilibili channel
+  icon: "bilibili-tv"
   icon_pack: "custom"
   name: Bilibili
-- description: YouTube channel
+- description: My YouTube channel
   icon: youtube
   icon_pack: fab
   name: YouTube
