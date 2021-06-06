@@ -21,11 +21,11 @@ feature:
   icon: launchpad
   icon_pack: custom
   name: Launchpad
-- description: https://space.bilibili.com/700128998
+- description: [My bilibili channel](https://space.bilibili.com/700128998)
   icon: bilibili-tv
   icon_pack: custom
   name: Bilibili
-- description: https://www.youtube.com/channel/UCnKavnGYWGM5xzi9MNb-q1w 
+- description: [My youtube channel](https://www.youtube.com/channel/UCnKavnGYWGM5xzi9MNb-q1w)
   icon: youtube
   icon_pack: fab
   name: YouTube
