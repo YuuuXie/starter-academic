@@ -25,7 +25,7 @@ feature:
   icon: bilibili-tv
   icon_pack: custom
   name: Bilibili
-- description: [My youtube channel](https://www.youtube.com/channel/UCnKavnGYWGM5xzi9MNb-q1w)
+- description: https://www.youtube.com/channel/UCnKavnGYWGM5xzi9MNb-q1w
   icon: youtube
   icon_pack: fab
   name: YouTube
