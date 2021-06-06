@@ -17,15 +17,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: I play Launchpad
+- description: I play Launchpad as a midi keyboard
   icon: launchpad
   icon_pack: custom
   name: Launchpad
-- description: My bilibili channel
+- description: https://space.bilibili.com/700128998
   icon: bilibili-tv
   icon_pack: custom
   name: Bilibili
-- description: My YouTube channel
+- description: https://www.youtube.com/channel/UCnKavnGYWGM5xzi9MNb-q1w 
   icon: youtube
   icon_pack: fab
   name: YouTube
