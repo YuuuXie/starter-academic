@@ -21,7 +21,7 @@ feature:
   icon: launchpad
   icon_pack: custom
   name: Launchpad
-- description: [My bilibili channel](https://space.bilibili.com/700128998)
+- description: https://space.bilibili.com/700128998
   icon: bilibili-tv
   icon_pack: custom
   name: Bilibili
