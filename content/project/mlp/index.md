@@ -30,16 +30,38 @@ url_video: ""
 # slides: example
 ---
 
-# FLARE: Interatomic potential built by Gaussian process regression and Bayesian active learning
+# FLARE
+
+**Interatomic potential built by Gaussian process regression and Bayesian active learning**
 
 ![](workflow_hierarchical.png)
 
 Check our Python code here: https://github.com/mir-group/flare
 
-# FLARE++: High-performance C++ code for sparse Gaussian process (SGP) with atomic cluster expansion (ACE) descriptors
+# FLARE++
+
+**High-performance C++ code for sparse Gaussian process (SGP) with atomic cluster expansion (ACE) descriptors**
+
+![](flare_pp.jpg)
 
 Check our code here: https://github.com/mir-group/flare_pp
 
-# Application: Stanene
+# Flightning
+
+**FLARE high-speed active learning (with LAMMPS uncertainty) (<-- FLARE Lightning)**
+
+![](workflow.png)
+
+Check our code here: https://github.com/mir-group/flightning
+
+# Applications
+
+## Stanene
+
+![](stanene_production.jpg)
 
 Check our scripts here: https://github.com/YuuuXie/Stanene_FLARE
+
+## Silicon carbide
+
+![](polytype.jpg)

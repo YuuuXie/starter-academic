@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Transport
+    tag: Transport
   - name: Other
     tag: Demo
 
