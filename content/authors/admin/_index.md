@@ -69,14 +69,10 @@ highlight_name: true
 
 I am a Ph.D student of Applied Physics at SEAS, Harvard University, working in [Prof.Boris Kozinsky's group](https://bkoz.seas.harvard.edu/). My research interests include computational material science, machine learning and molecular dynamics simulation.
 
-How to pronounce my name:
-
-谢玙: Xiè Yú 
-
-Yu: It's OK to call /ju/, but I'll appreciate it if you call /j/+ü (If you know this German pronunciation)
-
-Xie: /∫e:/
-
-If you have difficulty pronouncing/remembering a Chinese name, you can call me Shelby /∫elbi/.
+*How to pronounce my name:
+谢玙: Xiè Yú . 
+Yu: It's OK to call /ju/, but I'll appreciate it if you call /j/+ü (If you know this German pronunciation). 
+Xie: /∫e:/. 
+If you have difficulty pronouncing/remembering a Chinese name, you can call me Shelby /∫elbi/.*
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
