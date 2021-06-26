@@ -5,15 +5,15 @@ event: MIR group meeting
 event_url: https://bkoz.seas.harvard.edu/ 
 
 location: Maxwell Dworkin, Harvard 
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: A brief introduction of manifold learning algorithms 
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,11 +34,11 @@ image:
   caption: 'Image credit: [**scikit learn**](https://scikit-learn.org/stable/auto_examples/manifold/plot_compare_methods.html)'
   focal_point: Right
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: "manifold_learning"
 url_slides: ""
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
