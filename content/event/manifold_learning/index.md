@@ -40,8 +40,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "manifold_learning"
-url_slides: ""
+url_pdf: ""
+url_slides: "manifold_learning"
 url_video: ""
 
 # Markdown Slides (optional).
