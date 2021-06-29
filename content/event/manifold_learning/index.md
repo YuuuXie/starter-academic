@@ -41,7 +41,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "manifold_learning"
+url_slides: "https://drive.google.com/file/d/1AHU7f5JOE9noj76w20DUfRuTmJh37R38/view?usp=sharing"
 url_video: ""
 
 # Markdown Slides (optional).
