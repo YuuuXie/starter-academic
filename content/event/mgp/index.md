@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**scikit learn**](https://scikit-learn.org/stable/auto_examples/manifold/plot_compare_methods.html)'
+  caption: 'Image credit: [**paper**](https://www.nature.com/articles/s41524-021-00510-y)'
   focal_point: Right
 
 links:
@@ -41,8 +41,8 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/1sVKyC2x4mpWo1JLA1SS8IOkLLwEoFVhBtxVR-TSkIoc/edit?usp=sharing" 
-url_video: "https://www.youtube.com/watch?v=3lcJkuEZrc8"
+url_slides: https://docs.google.com/presentation/d/1sVKyC2x4mpWo1JLA1SS8IOkLLwEoFVhBtxVR-TSkIoc/edit?usp=sharing 
+url_video: https://www.youtube.com/watch?v=3lcJkuEZrc8
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
