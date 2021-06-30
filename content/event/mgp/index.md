@@ -35,14 +35,14 @@ image:
   focal_point: Right
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- icon: youtube
+  icon_pack: fab
+  name: mgp 
+  url: https://www.youtube.com/watch?v=3lcJkuEZrc8
 url_code: ""
 url_pdf: ""
 url_slides: https://docs.google.com/presentation/d/1sVKyC2x4mpWo1JLA1SS8IOkLLwEoFVhBtxVR-TSkIoc/edit?usp=sharing 
-url_video: https://www.youtube.com/watch?v=3lcJkuEZrc8
+url_video: "" 
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
