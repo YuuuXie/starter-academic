@@ -37,11 +37,15 @@ image:
 links:
 - icon: youtube
   icon_pack: fab
-  name: mgp 
+  name: Video
   url: https://www.youtube.com/watch?v=3lcJkuEZrc8
+- icon: file-alt
+  icon_pack: fas
+  name: Slides
+  url: https://docs.google.com/presentation/d/1sVKyC2x4mpWo1JLA1SS8IOkLLwEoFVhBtxVR-TSkIoc/edit?usp=sharing
 url_code: ""
 url_pdf: ""
-url_slides: https://docs.google.com/presentation/d/1sVKyC2x4mpWo1JLA1SS8IOkLLwEoFVhBtxVR-TSkIoc/edit?usp=sharing 
+url_slides: "" 
 url_video: "" 
 
 # Markdown Slides (optional).
